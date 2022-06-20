@@ -95,7 +95,9 @@ button:hover {
 }
 
 @media all and (max-width: 600px) {
-    
+    body {
+        background-color: bisque;
+    }
 
     .container {
         display: felx;
